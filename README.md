@@ -26,6 +26,8 @@ The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
 
 References:
 
+I would like to acknowledge the assistance of Sbu and Yolanda for their valuable help during the completion of this challenge. Their guidance and support were instrumental in helping me understand the concepts better and complete the task successfully.
+
 [GitHub Repository](https://git.bootcampcontent.com/Columbia-University/CU-VIRT-DATA-PT-04-2024-U-LOLC.git) - Provided guidance on handling data preprocessing and planning of script
 
 [Xpert Learning Assitant](https://bootcampspot.instructure.com/courses/5580/external_tools/313) - Provided guidance on handling data preprocessing and helping debug codes
