@@ -23,3 +23,8 @@ The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
+
+References:
+[GitHub Repository](https://git.bootcampcontent.com/Columbia-University/CU-VIRT-DATA-PT-04-2024-U-LOLC.git) - Provided guidance on handling data preprocessing and planning of script
+[Xpert Learning Assitant](https://bootcampspot.instructure.com/courses/5580/external_tools/313) - Provided guidance on handling data preprocessing and helping debug codes
+[ChatGPT](https://chatgpt.com/?oai-dm=1) - Provided guidance on handling data preprocessing and helping debug codes
